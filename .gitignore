@@ -130,3 +130,8 @@ dmypy.json
 
 # secret keys
 *keys.py
+
+#jetbrains
+.idea
+#log files
+*.txt
