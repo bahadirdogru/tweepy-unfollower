@@ -1,4 +1,4 @@
-# twepy-unfollower
+# twepy-unfollower [PoC]
 Unfollow nonfollowers with python and tweepy
 
 you need to add keys.py
